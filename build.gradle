@@ -16,7 +16,7 @@ dependencies {
 }
 jar {
     manifest {
-        attributes "Main-Class": "org.exsample.Main"
+        attributes "Main-Class": "org.example.Main"
     }
 
     from {
